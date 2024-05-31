@@ -7,7 +7,6 @@ Hi there! I’m Alexander Brady 👋
 	•	🤝 I’m looking to collaborate on exciting UX projects.
 	•	📫 Feel free to reach out to me via email.
 
-Let me know if you’d like any further modifications!
 
 <!---
 AlexanderBrady/AlexanderBrady is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
