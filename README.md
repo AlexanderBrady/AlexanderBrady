@@ -1,12 +1,14 @@
-Hi there! I’m Alexander Brady 👋
+# Hi, I'm Alexander Brady
 
-	•	🎓 MSc in Human-Computer Interaction (HCI) University of Nottingham. BSc Architecture
-	•	💡 I’m passionate about UX and UI design.
-	•	🌱 I have a proficiency in HTML, CSS, Python, and JavaScript.
-	•	🏗️ I come from a background in architecture and construction, which gives me a unique perspective on design.
-	•	🤝 I’m looking to collaborate on exciting UX projects.
-	•	📫 Feel free to reach out to me via email.
-    	        brady.alexander321@gmail.com
+I build digital experiences that work harder.
+
+🎓 MSc Human–Computer Interaction, University of Nottingham  
+📐 Background in architecture and construction  
+🧠 UX designer with a strategic mindset and hands-on dev skills  
+💻 Proficient in HTML, CSS, JavaScript, and Python  
+🔧 Currently focused on AI tools, interface systems, and conversion-driven web builds  
+🌐 www.arbieter.com  
+📬 Reach me at brady.alexander321@gmail.com
 
 <!---
 AlexanderBrady/AlexanderBrady is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
