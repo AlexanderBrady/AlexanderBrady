@@ -1,5 +1,4 @@
-# Hi, I'm Alexander Brady
-
+# Hi, I'm Alex
 I build digital experiences that work harder.
 
 🎓 MSc Human–Computer Interaction, University of Nottingham  
