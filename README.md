@@ -8,7 +8,7 @@ I build digital experiences that work harder.
 💻 Proficient in HTML, CSS, JavaScript, and Python  
 🔧 Currently focused on AI tools, interface systems, and conversion-driven web builds  
 🌐 www.arbieter.com  
-📬 Reach me at brady.alexander321@gmail.com
+📬 Reach me at alex@arbieter.com
 
 <!---
 AlexanderBrady/AlexanderBrady is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
