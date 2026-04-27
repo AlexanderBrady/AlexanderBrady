@@ -1,4 +1,4 @@
-## Alex Brady
+## Alexander Brady
 ERP, AI & Automation Systems Consultant
 
 * MSc Human–Computer Interaction (Nottingham)
