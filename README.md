@@ -1,5 +1,5 @@
-# Hi, I'm Alex
-I build digital experiences that work harder.
+## Alex Brady
+ERP, AI & Automation Systems Consultant
 
 * MSc Human–Computer Interaction (Nottingham)
 * Background in architecture + construction tech
